@@ -12,3 +12,4 @@ dist-ssr
 .cache
 server/dist
 public/dist
+local-docs/
